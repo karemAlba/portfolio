@@ -1,0 +1,37 @@
+.imagen{
+	width: 100%;
+	height:50%;
+	margin-top: 5%;
+}
+.boton{
+	margin-top: 5px;
+	background-color: grey;
+	color: white;
+	border-radius: 5px;
+	width: 40%;
+	height: 40px;
+	margin-top: 5%;
+	font-size: 15px;
+}
+.lista{
+	display: inline-block;
+	color: grey;
+}
+.imagenes{
+	width: 100%;
+	height: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.boton1{
+	margin-top: 3%;
+	background-color: grey;
+	color: white;
+	border-radius: 15px;
+	width: 15%;
+	height: 40px;
+	font-size: 15px;
+}
+.botonr{
+	margin-top: 
+}

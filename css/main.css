@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+#particles-js {
+  position: absolute;
+  top:7.7%;
+  left: 0;
+  right: 0;
+  bottom:0;
+  z-index: 5;
+  height: 92%;
+  background-size: cover;
+  background-image: url('../img/azul (2).jpg');/*
+
+  background: -moz-linear-gradient(#34495E, #CCC);
+  background: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#CCC), to(white));
+  background: -webkit-linear-gradient(#34495E, #CCC);*/
+}
+.content {
+  font-size:36px;
+  line-height:40px;
+  font-family:'Muli';
+  color:#ecf0f1;
+  height:100px;
+  position:absolute;
+  left:32%;
+  margin-top:20%;
+  
+}
+
+@media  only screen and (max-width: 767px) {
+    .content2{
+      margin-bottom: 0;
+    }
+}
+.content2 {
+    font-size:36px;
+    font-family:'Muli';
+    color:#ecf0f1;
+    position:absolute;
+    margin-top:25%;
+    width: 90%;    
+    background-image: url('../img/bg_tile.jpg');
+    opacity: .8;
+  }
+  .yo{
+    font-family:'Muli';
+    text-align: center;
+    text-shadow:-1px 1px 0px #aaa,
+                 -2px 2px 0px #aaa,
+                 -3px 3px 0px #aaa,
+                 0px 4px 3px rgba(0,0,0,0.7),
+                 0px 7px 10px rgba(0,0,0,0.5);
+     border-style:groove;
+     padding: 5%;
+    
+  } 
+.visible {
+  float:left;
+  font-weight:600px;
+  overflow:hidden;
+  height:40px;   
+}
+
+.nombre{
+  font-size: 2em;
+  color: white;
+  margin-bottom: 5%;
+}
+.soy {
+  display:inline;
+  float:left;
+  margin:0;
+
+
+}
+
+.letras {
+  margin-top:5%;
+  padding-left:23%;
+  text-align:left;
+  list-style:none;
+  animation:6s linear 0s normal none infinite change;
+  -webkit-animation:6s linear 0s normal none infinite change;
+  -moz-animation:6s linear 0s normal none infinite change;
+  -o-animation:6s linear 0s normal none infinite change;
+}
+
+.letras li {
+  line-height:40px;
+  margin:0;
+}
+
+@-webkit-keyframes opacity {
+  0%   {opacity:0;}
+  50%  {opacity:1;}
+  100% {opacity:0;}
+}
+@keyframes opacity {
+  0%   {opacity:0;}
+  50%  {opacity:1;}
+  100% {opacity:0;}
+}
+
+@-webkit-keyframes change {
+  0%   {margin-top:0;}
+  15%  {margin-top:0;}
+  25%  {margin-top:-40px;}
+  40%  {margin-top:-40px;}
+  50%  {margin-top:-80px;}
+  65%  {margin-top:-80px;}
+  75%  {margin-top:-40px;}
+  85%  {margin-top:-40px;}
+  100% {margin-top:0;}
+}
+@keyframes change {
+  0%   {margin-top:0;}
+  15%  {margin-top:0;}
+  25%  {margin-top:-40px;}
+  40%  {margin-top:-40px;}
+  50%  {margin-top:-80px;}
+  65%  {margin-top:-80px;}
+  75%  {margin-top:-40px;}
+  85%  {margin-top:-40px;}
+  100% {margin-top:0;}
+}

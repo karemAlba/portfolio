@@ -1,0 +1,53 @@
+body{
+	background-color: rgb(244, 244, 244);
+	background-size: cover;
+}
+ul li{
+	display: inline-block;
+	margin-left: 7%;
+    margin-top:5%;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+}
+.fondohead{
+  background-color: black;
+  background-size: cover;
+  height: 100px;
+  }
+.logo{
+	margin-left: 20%;
+	margin-top: 5%;
+	font-size: 30px;
+}
+hr{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+footer{
+	background-color: black;
+	padding: 4%;
+	padding-left: 15%;
+	color: white;
+}
+.iconos{
+	width: 10%;
+	border-radius: 180px;
+	margin-left: 2%;
+}
+#rojo{
+	color: red;
+	font-size: 10px;
+}
+.rosa{
+	color: violet;
+}
+.texto1{
+	margin-top: 10%;
+	font-size: 19px;
+}
+p{
+	margin-top: 5px;
+}

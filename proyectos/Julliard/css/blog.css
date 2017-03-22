@@ -1,0 +1,39 @@
+.gris{
+	background-color: #D0D3D4;
+	margin-bottom: 50px;
+}
+.gris2{
+	background-color: grey;
+}
+.imagenes{
+	width: 80%;
+	height: 80%;
+	margin-left: 90px;
+	margin-top: 50px;
+}
+.row1{
+	width: 1200px;
+	height: 330px;
+	margin-left: 50px;
+	color: white;
+	margin-bottom: 10px;
+}
+.botonb{
+	background-color: #1F618D;
+	border: none;
+	color: white;
+	padding: 10px;
+	width: 250px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+.titulo1{
+	margin-left: 160px;
+	margin-top: 70px;
+}

@@ -1,0 +1,98 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster';
+
+.logo{
+	width: 40%;
+	height: 220%;
+
+}
+body{
+    padding-top: 50px;
+}
+.fondo1 {
+  background-color: #2d2735;
+}
+.fondoflo{
+	background-image: url(../image/header-image.jpg);
+	background-size: cover;
+
+	margin-top: 3%;
+	padding: 5%;
+}
+.fondo2{
+	background-color: #241F29;
+	background-size: cover;
+	color: white;
+	width: 60%;
+	height: 60%;
+	margin-left: 20%;
+	padding: 5%;
+	text-align: center;
+}
+.titulo{
+	color: #E39348;
+	text-align: center;
+	margin-top: 5%;
+	font-family: 'Lobster', cursive;
+	font-size: 600%;
+}
+.texto{
+	color: white;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+.texto1{
+	color: white;
+	text-align: justify;
+	margin-top: 2%;
+}
+.titulo2{
+	color: #E39348;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+.imagenes{
+	margin-top: 10%;
+}
+.cajan{
+	background-color: #241F29;
+	margin-top: 3%;
+}
+.cajanla{
+	background-color: #241F29;
+	margin-top: 3%;
+	border-radius: 5px;
+	padding: 2%;
+}
+.imagen{
+	margin-left: 5%;
+}
+.text-center{
+	text-align: center;
+}
+
+.input{
+	width: 50%;
+	margin-top: 3%;
+	border-radius: 5px;
+	background-color: #82768E;
+	color: white;
+	border: 0;
+	height: 10px;
+	width: 100%;
+	padding: 3%;
+	margin-bottom: 3%;	
+}
+.espacioa{
+	margin-top: 1.7%;
+}
+.espaciob{
+	margin-bottom: 5%;
+}
+footer{
+	background-color: black;
+	background-size: cover;
+	height: 50%;
+	color: white;
+	text-align: center;
+	margin-top: 2%;
+}

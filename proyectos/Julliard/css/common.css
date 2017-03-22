@@ -1,0 +1,114 @@
+li{
+	display: inline-block;
+	margin-left: 100px;
+	color: #1F618D;
+	margin-bottom: 20px;
+}
+.titulo{
+	color: #1F618D;
+	margin-bottom: 20px;
+}
+.mapa{
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.fondoa{
+	background-color: #1B4F72;
+	color: white;
+}
+.fondob{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-position:  right;
+
+}
+
+form{
+	margin-top: 20px;
+	margin-left: 160px;
+}
+input{
+	margin-top: 30px;
+	border-radius: 5px;
+}
+textarea{
+	margin-top: 30px;
+	border-radius: 5px;
+}
+#Nombre{
+	background-image: url("../img/iconos/avatar.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 17px;
+	width: 503px;
+	font-size: 20px;
+	background-color: transparent;
+}
+#Email{
+	background-image: url("../img/iconos/sobre.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 17px;
+	background-color: transparent;
+	width: 503px;
+	font-size: 20px;
+}#Mensaje{
+	background-image: url("../img/iconos/editar.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	padding-left: 17px;
+	width: 503px;
+	font-size: 20px;
+}
+footer{
+	background-color: #1F618D;
+	color: white;
+}
+.text{
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.col{
+	margin-top: 70px;
+	margin-bottom: 20px;.botonb{
+	background-color: #1F618D;
+	border: none;
+	color: white;
+	padding: 10px;
+	width: 250px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+.botonb{
+	background-color: #1F618D;
+	border: none;
+	color: white;
+	padding: 10px;
+	width: 250px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+.titulo1{
+	margin-left: 160px;
+	margin-top: 70px;
+}
+
+h1{
+	text-decoration: none;
+	color: #1F618D
+}
+

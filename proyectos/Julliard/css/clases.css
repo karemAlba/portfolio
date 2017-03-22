@@ -1,0 +1,62 @@
+.caja1{
+	background-color: black;
+	opacity: 0.5;
+	width: 250px;
+	height: 100px;
+	color:white;
+	margin-top: 200px;
+	margin-left: 50px;
+}
+h2{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.back{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 520px;
+	width: 390px;
+	margin-left: 30px;
+	margin-bottom: 50px;
+}
+#foto1{
+	background-image: url("../img/dance_12.jpg");
+}
+	
+#foto2{
+	background-image: url("../img/breakdance.jpg");
+}
+#foto3{
+	background-image: url("../img/lirical-jazz.jpg");
+}
+#foto4{
+	background-image: url("../img/arabe.jpg");
+}
+#foto5{
+	background-image: url("../img/little.jpg");
+}
+#foto6{
+	background-image: url("../img/dance_13.jpg");
+}
+.gris{
+	background-color: #D0D3D4;
+}
+.botonb{
+	background-color: #1F618D;
+	border: none;
+	color: white;
+	padding: 10px;
+	width: 250px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+.titulo1{
+	margin-left: 160px;
+	margin-top: 70px;
+}
