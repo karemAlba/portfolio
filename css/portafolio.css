@@ -13,7 +13,7 @@
 
 .portfolio-sorting li a {
 	font-family: 'Courgette', cursive;
-	color: white;
+	color: lightgrey;
 	text-decoration: none;
 	padding: 6px;
 	border-radius: 180px;
@@ -23,7 +23,7 @@
 .portfolio-sorting li a.active{
 	border-radius: 180px;
 	color: #E8DAEF;
-	border-bottom: 2px solid white;
+	border-bottom: 2px solid rebeccapurple;
 }
 
 .portfolio-item {
